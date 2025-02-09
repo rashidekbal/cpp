@@ -1,0 +1,45 @@
+comments done
+variables  done
+user input done
+data types done
+operators done
+string done
+math
+boolean done
+if else done
+switch  done
+while loop done
+for loop done
+break continue done
+array done but functions not done
+structures
+enums
+references 
+ponters
+functions
+parametes 
+functions overloading
+scope recurssion
+classes
+objects
+class methonds
+constructor
+acess specifiers
+encapsulation
+inheritance
+polymorphism
+files
+exceptions
+date
+
+
+c++ references 
+keywords
+iostream
+fstream
+cmath
+string
+cstring
+ctime
+vector
+algorithm
